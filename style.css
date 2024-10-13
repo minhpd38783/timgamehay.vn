@@ -180,6 +180,11 @@ a {
     color: darkblue;
 }
 
+a:hover {
+    color: red;
+    text-shadow: 0 2px 35px black;
+}
+
 #Games {
     padding: 0;
     margin: 0;
