@@ -69,7 +69,7 @@ header h1 a {
     height: 0;
     padding-bottom: 60%; /* Điều chỉnh tỷ lệ chiều cao/chiều rộng của hình ảnh */
     overflow: hidden;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 #banner img {
@@ -193,7 +193,7 @@ a:hover {
 
 #Games > iframe {
     width: 1520px;
-    min-height: 590px;
+    min-height: 600px;
     border-radius: 20px;
     position: absolute;
     box-shadow: 0 1px 8px black;
